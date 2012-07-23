@@ -1,0 +1,68 @@
+/**
+ * Footheme footheme.css
+ *
+ * Use this file to add your custom styles.
+ *
+ * You can change the name of this file, just
+ * remember to update the name in the info file
+ * as well.
+ */
+
+/* Menu */
+
+//#menu-bar ul li a:hover,
+//#menu-bar ul li a:active,
+//#menu-bar ul li a:focus,
+    .region-header li  a:hover,
+    .region-header li  a:active,
+    .region-header li  a:focus {
+    background-color: #e25402;
+}
+
+/* social links */
+
+#block-block-2 {
+	float: right !important;
+}
+
+.social-links {
+	float: left;
+    margin-top: 5px;
+    padding-right: 5px;
+}
+
+/* front page panel */
+
+.pane-weekly-deal {
+	border: 1px solid;
+    padding: 10px;
+    width: 300px;
+}
+
+.pane-block-1 {
+	
+}
+
+.pane-companies-logo {
+	border: 1px solid;
+    width: 320px;
+}
+
+.pane-drs-blog {
+	border: 1px solid;
+    margin-left: 330px;
+    margin-top: -309px;
+    padding: 10px;
+    width: 500px;
+    height: 275px;
+}
+
+.pane-ask-the-doctor {
+	border: 1px solid;
+    margin-left: 265px;
+    padding: 10px;
+    width: 300px;
+    height: 275px;
+}
+
+
